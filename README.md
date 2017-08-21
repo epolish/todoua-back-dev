@@ -4,7 +4,7 @@ This project was created with [Ruby](https://www.ruby-lang.org) version 2.3.3 an
 
 ## Additional dependencies
 
-  * [devise-bootstrap-views](https://github.com/hisea/devise-bootstrap-views)
+  * [devise-bootstrap-views(*only template files)](https://github.com/hisea/devise-bootstrap-views)
   
   Devise views with Bootstrap 3.
   * [acts_as_list](https://github.com/swanandp/acts_as_list)
