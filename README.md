@@ -4,19 +4,22 @@ This project was created with [Ruby](https://www.ruby-lang.org) version 2.3.3 an
 
 ## Additional dependencies
 
+  * [devise-bootstrap-views](https://github.com/hisea/devise-bootstrap-views)
+  
+  Devise views with Bootstrap 3.
   * [acts_as_list](https://github.com/swanandp/acts_as_list)
   
   This acts_as extension provides the capabilities for sorting and reordering a number of objects in a list. The class that has this specified needs to have a position column defined as an integer on the mapped database table.
   * [rack-cors](https://github.com/cyu/rack-cors)
   
-  `Rack::Cors` provides support for Cross-Origin Resource Sharing (CORS) for Rack compatible web applicatio
+  `Rack::Cors` provides support for Cross-Origin Resource Sharing (CORS) for Rack compatible web application.
   * [haml-rails](https://github.com/indirect/haml-rails)
   
   Haml-rails provides Haml generators for Rails 4. It also enables Haml as the templating engine for you, so you don't have to screw around in your own application.rb when your Gemfile already clearly indicated what templating engine you have installed. Hurrah.
   
   * [devise](https://github.com/plataformatec/devise)
   
-  Devise is a flexible authentication solution for Rails based on Warden
+  Devise is a flexible authentication solution for Rails based on Warden.
  
   * [rspec-rails](https://github.com/rspec/rspec-rails)
   
